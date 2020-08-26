@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="57" started-at="2020-08-14T14:33:36 MSK" finished-at="2020-08-14T14:33:36 MSK">
+    <groups>
+    </groups>
+    <test name="/Users/adAdminmin/IdeaProjects/maventest" duration-ms="57" started-at="2020-08-14T14:33:36 MSK" finished-at="2020-08-14T14:33:36 MSK">
+      <class name="org.example.AppiumTest">
+        <test-method status="PASS" signature="androidTest()[pri:0, instance:org.example.AppiumTest@16267862]" name="androidTest" duration-ms="8" started-at="2020-08-14T14:33:36 MSK" finished-at="2020-08-14T14:33:36 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- androidTest -->
+      </class> <!-- org.example.AppiumTest -->
+    </test> <!-- /Users/adAdminmin/IdeaProjects/maventest -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
